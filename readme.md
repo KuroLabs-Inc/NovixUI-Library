@@ -428,8 +428,11 @@ NovixUI:MakeNotify({
 
 ## Credits
 
-- **Original Library:** FlurioreLib / Hirimi Hub
-- **Redesigned & Modified:** NovixUI Team
+- *RkpyDevelopment Team's Owner:* *TheRkpyYT*
+- **YouTube RDT's Owner:** [YouTube Channel](https://youtube.com/@therkpyyt)
+- **Discord:** *therkpyyt_*
+- **Discord II:** *therkpyyt2_*
+- **Designed Library:** RkpyDevelopment Team
 - **Platform:** Roblox (LuaU)
 
 ---
