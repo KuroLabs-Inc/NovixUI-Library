@@ -28,7 +28,7 @@ A modern, sleek, and fully customizable Roblox UI Library designed for script hu
 Load the library into your Roblox script:
 
 ```lua
-local NovixUI = loadstring(game:HttpGet("YOUR_RAW_URL_HERE"))()
+local NovixUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/KuroLabs-Inc/NovixUI-Library/refs/heads/main/NovixUI_Library.lua"))()
 ```
 
 Or copy the entire `NovixUI_Library.lua` source into your script.
@@ -38,7 +38,7 @@ Or copy the entire `NovixUI_Library.lua` source into your script.
 ## Quick Start
 
 ```lua
-local NovixUI = loadstring(game:HttpGet("YOUR_URL"))()
+local NovixUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/KuroLabs-Inc/NovixUI-Library/refs/heads/main/NovixUI_Library.lua"))()
 
 -- Create the main GUI
 local Window = NovixUI:MakeGui({
