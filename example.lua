@@ -6,13 +6,12 @@
     This example demonstrates all features of the NovixUI library.
     Load this script in your Roblox executor to see the UI in action.
 
-    Replace "YOUR_RAW_URL_HERE" with the actual raw URL to NovixUI_Library.lua
 --]]
 
 -- ============================================
 -- 1. LOAD THE LIBRARY
 -- ============================================
-local NovixUI = loadstring(game:HttpGet("YOUR_RAW_URL_HERE"))()
+local NovixUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/KuroLabs-Inc/NovixUI-Library/refs/heads/main/NovixUI_Library.lua"))()
 -- Or if you have the file locally:
 -- local NovixUI = require(path.to.NovixUI_Library)
 
